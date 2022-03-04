@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kylestew35
-- 👀 I’m interested in Crypto Currency 
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on starting a new Blockchain
+- 👀 I am a web developer
+- 🌱 I have a passion for Python/HTML/CSS/React
+- 💞️ I may one day study Machine Learning
 - 📫 How to reach me kylestew35@gmail.com
 
 <!---
